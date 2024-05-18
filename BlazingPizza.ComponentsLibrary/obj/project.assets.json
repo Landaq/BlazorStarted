@@ -580,39 +580,24 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\V14066\\.nuget\\packages\\": {},
-    "C:\\Program Files\\DevExpress 22.1\\Components\\Offline Packages": {},
-    "C:\\Program Files\\DevExpress 23.1\\Components\\Offline Packages": {},
-    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
+    "/Users/wonkeuncho/.nuget/packages/": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\V14066\\Source\\Repos\\Landaq\\BlazorStarted\\BlazingPizza.ComponentsLibrary\\BlazingPizza.ComponentsLibrary.csproj",
+      "projectUniqueName": "/Users/wonkeuncho/Desktop/Folder/dev/BlazorStarted/BlazingPizza.ComponentsLibrary/BlazingPizza.ComponentsLibrary.csproj",
       "projectName": "BlazingPizza.ComponentsLibrary",
-      "projectPath": "C:\\Users\\V14066\\Source\\Repos\\Landaq\\BlazorStarted\\BlazingPizza.ComponentsLibrary\\BlazingPizza.ComponentsLibrary.csproj",
-      "packagesPath": "C:\\Users\\V14066\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\V14066\\Source\\Repos\\Landaq\\BlazorStarted\\BlazingPizza.ComponentsLibrary\\obj\\",
+      "projectPath": "/Users/wonkeuncho/Desktop/Folder/dev/BlazorStarted/BlazingPizza.ComponentsLibrary/BlazingPizza.ComponentsLibrary.csproj",
+      "packagesPath": "/Users/wonkeuncho/.nuget/packages/",
+      "outputPath": "/Users/wonkeuncho/Desktop/Folder/dev/BlazorStarted/BlazingPizza.ComponentsLibrary/obj/",
       "projectStyle": "PackageReference",
-      "fallbackFolders": [
-        "C:\\Program Files\\DevExpress 22.1\\Components\\Offline Packages",
-        "C:\\Program Files\\DevExpress 23.1\\Components\\Offline Packages",
-        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-      ],
       "configFilePaths": [
-        "C:\\Users\\V14066\\AppData\\Roaming\\NuGet\\NuGet.Config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\DevExpress 22.1.config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\DevExpress 23.1.config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        "/Users/wonkeuncho/.nuget/NuGet/NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net8.0"
       ],
       "sources": {
-        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-        "C:\\Program Files\\DevExpress 22.1\\Components\\System\\Components\\Packages": {},
-        "C:\\Program Files\\DevExpress 23.1\\Components\\System\\Components\\Packages": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
@@ -661,7 +646,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.204/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/8.0.300/PortableRuntimeIdentifierGraph.json"
       }
     }
   }
