@@ -1,31 +1,25 @@
 {
   "format": 1,
   "restore": {
-    "c:\\Users\\s_cwnv2002\\Desktop\\study\\BlazorStarted\\BlazingPizza.ComponentsLibrary\\BlazingPizza.ComponentsLibrary.csproj": {}
+    "/Users/wonkeuncho/Desktop/Folder/dev/BlazorStarted/BlazingPizza.ComponentsLibrary/BlazingPizza.ComponentsLibrary.csproj": {}
   },
   "projects": {
-    "c:\\Users\\s_cwnv2002\\Desktop\\study\\BlazorStarted\\BlazingPizza.ComponentsLibrary\\BlazingPizza.ComponentsLibrary.csproj": {
+    "/Users/wonkeuncho/Desktop/Folder/dev/BlazorStarted/BlazingPizza.ComponentsLibrary/BlazingPizza.ComponentsLibrary.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Users\\s_cwnv2002\\Desktop\\study\\BlazorStarted\\BlazingPizza.ComponentsLibrary\\BlazingPizza.ComponentsLibrary.csproj",
+        "projectUniqueName": "/Users/wonkeuncho/Desktop/Folder/dev/BlazorStarted/BlazingPizza.ComponentsLibrary/BlazingPizza.ComponentsLibrary.csproj",
         "projectName": "BlazingPizza.ComponentsLibrary",
-        "projectPath": "c:\\Users\\s_cwnv2002\\Desktop\\study\\BlazorStarted\\BlazingPizza.ComponentsLibrary\\BlazingPizza.ComponentsLibrary.csproj",
-        "packagesPath": "C:\\Users\\s_cwnv2002\\.nuget\\packages\\",
-        "outputPath": "c:\\Users\\s_cwnv2002\\Desktop\\study\\BlazorStarted\\BlazingPizza.ComponentsLibrary\\obj\\",
+        "projectPath": "/Users/wonkeuncho/Desktop/Folder/dev/BlazorStarted/BlazingPizza.ComponentsLibrary/BlazingPizza.ComponentsLibrary.csproj",
+        "packagesPath": "/Users/wonkeuncho/.nuget/packages/",
+        "outputPath": "/Users/wonkeuncho/Desktop/Folder/dev/BlazorStarted/BlazingPizza.ComponentsLibrary/obj/",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-        ],
         "configFilePaths": [
-          "C:\\Users\\s_cwnv2002\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+          "/Users/wonkeuncho/.nuget/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net8.0"
         ],
         "sources": {
-          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -38,6 +32,11 @@
           "warnAsError": [
             "NU1605"
           ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
         }
       },
       "frameworks": {
@@ -69,7 +68,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.100/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/8.0.300/PortableRuntimeIdentifierGraph.json"
         }
       }
     }

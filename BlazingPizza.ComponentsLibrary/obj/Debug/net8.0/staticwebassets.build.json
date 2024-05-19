@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "+YAFeXMelMSmlLQJD7ocOjwUfFQFHXKkSU6EtX5bFko=",
+  "Hash": "m9sVGBbeuoCyDMwNOqVbprBzaA0C0tzn10iwY6C2S+c=",
   "Source": "BlazingPizza.ComponentsLibrary",
   "BasePath": "_content/BlazingPizza.ComponentsLibrary",
   "Mode": "Default",
@@ -8,19 +8,19 @@
   "ReferencedProjectsConfiguration": [],
   "DiscoveryPatterns": [
     {
-      "Name": "BlazingPizza.ComponentsLibrary\\wwwroot",
+      "Name": "BlazingPizza.ComponentsLibrary/wwwroot",
       "Source": "BlazingPizza.ComponentsLibrary",
-      "ContentRoot": "c:\\Users\\s_cwnv2002\\Desktop\\study\\BlazorStarted\\BlazingPizza.ComponentsLibrary\\wwwroot\\",
+      "ContentRoot": "/Users/wonkeuncho/Desktop/Folder/dev/BlazorStarted/BlazingPizza.ComponentsLibrary/wwwroot/",
       "BasePath": "_content/BlazingPizza.ComponentsLibrary",
       "Pattern": "**"
     }
   ],
   "Assets": [
     {
-      "Identity": "c:\\Users\\s_cwnv2002\\Desktop\\study\\BlazorStarted\\BlazingPizza.ComponentsLibrary\\wwwroot\\deliveryMap.js",
+      "Identity": "/Users/wonkeuncho/Desktop/Folder/dev/BlazorStarted/BlazingPizza.ComponentsLibrary/wwwroot/deliveryMap.js",
       "SourceId": "BlazingPizza.ComponentsLibrary",
       "SourceType": "Discovered",
-      "ContentRoot": "c:\\Users\\s_cwnv2002\\Desktop\\study\\BlazorStarted\\BlazingPizza.ComponentsLibrary\\wwwroot\\",
+      "ContentRoot": "/Users/wonkeuncho/Desktop/Folder/dev/BlazorStarted/BlazingPizza.ComponentsLibrary/wwwroot/",
       "BasePath": "_content/BlazingPizza.ComponentsLibrary",
       "RelativePath": "deliveryMap.js",
       "AssetKind": "All",
@@ -33,13 +33,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\deliveryMap.js"
+      "OriginalItemSpec": "wwwroot/deliveryMap.js"
     },
     {
-      "Identity": "c:\\Users\\s_cwnv2002\\Desktop\\study\\BlazorStarted\\BlazingPizza.ComponentsLibrary\\wwwroot\\leaflet\\images\\layers-2x.png",
+      "Identity": "/Users/wonkeuncho/Desktop/Folder/dev/BlazorStarted/BlazingPizza.ComponentsLibrary/wwwroot/leaflet/images/layers-2x.png",
       "SourceId": "BlazingPizza.ComponentsLibrary",
       "SourceType": "Discovered",
-      "ContentRoot": "c:\\Users\\s_cwnv2002\\Desktop\\study\\BlazorStarted\\BlazingPizza.ComponentsLibrary\\wwwroot\\",
+      "ContentRoot": "/Users/wonkeuncho/Desktop/Folder/dev/BlazorStarted/BlazingPizza.ComponentsLibrary/wwwroot/",
       "BasePath": "_content/BlazingPizza.ComponentsLibrary",
       "RelativePath": "leaflet/images/layers-2x.png",
       "AssetKind": "All",
@@ -52,13 +52,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\leaflet\\images\\layers-2x.png"
+      "OriginalItemSpec": "wwwroot/leaflet/images/layers-2x.png"
     },
     {
-      "Identity": "c:\\Users\\s_cwnv2002\\Desktop\\study\\BlazorStarted\\BlazingPizza.ComponentsLibrary\\wwwroot\\leaflet\\images\\layers.png",
+      "Identity": "/Users/wonkeuncho/Desktop/Folder/dev/BlazorStarted/BlazingPizza.ComponentsLibrary/wwwroot/leaflet/images/layers.png",
       "SourceId": "BlazingPizza.ComponentsLibrary",
       "SourceType": "Discovered",
-      "ContentRoot": "c:\\Users\\s_cwnv2002\\Desktop\\study\\BlazorStarted\\BlazingPizza.ComponentsLibrary\\wwwroot\\",
+      "ContentRoot": "/Users/wonkeuncho/Desktop/Folder/dev/BlazorStarted/BlazingPizza.ComponentsLibrary/wwwroot/",
       "BasePath": "_content/BlazingPizza.ComponentsLibrary",
       "RelativePath": "leaflet/images/layers.png",
       "AssetKind": "All",
@@ -71,13 +71,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\leaflet\\images\\layers.png"
+      "OriginalItemSpec": "wwwroot/leaflet/images/layers.png"
     },
     {
-      "Identity": "c:\\Users\\s_cwnv2002\\Desktop\\study\\BlazorStarted\\BlazingPizza.ComponentsLibrary\\wwwroot\\leaflet\\images\\marker-icon-2x.png",
+      "Identity": "/Users/wonkeuncho/Desktop/Folder/dev/BlazorStarted/BlazingPizza.ComponentsLibrary/wwwroot/leaflet/images/marker-icon-2x.png",
       "SourceId": "BlazingPizza.ComponentsLibrary",
       "SourceType": "Discovered",
-      "ContentRoot": "c:\\Users\\s_cwnv2002\\Desktop\\study\\BlazorStarted\\BlazingPizza.ComponentsLibrary\\wwwroot\\",
+      "ContentRoot": "/Users/wonkeuncho/Desktop/Folder/dev/BlazorStarted/BlazingPizza.ComponentsLibrary/wwwroot/",
       "BasePath": "_content/BlazingPizza.ComponentsLibrary",
       "RelativePath": "leaflet/images/marker-icon-2x.png",
       "AssetKind": "All",
@@ -90,13 +90,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\leaflet\\images\\marker-icon-2x.png"
+      "OriginalItemSpec": "wwwroot/leaflet/images/marker-icon-2x.png"
     },
     {
-      "Identity": "c:\\Users\\s_cwnv2002\\Desktop\\study\\BlazorStarted\\BlazingPizza.ComponentsLibrary\\wwwroot\\leaflet\\images\\marker-icon.png",
+      "Identity": "/Users/wonkeuncho/Desktop/Folder/dev/BlazorStarted/BlazingPizza.ComponentsLibrary/wwwroot/leaflet/images/marker-icon.png",
       "SourceId": "BlazingPizza.ComponentsLibrary",
       "SourceType": "Discovered",
-      "ContentRoot": "c:\\Users\\s_cwnv2002\\Desktop\\study\\BlazorStarted\\BlazingPizza.ComponentsLibrary\\wwwroot\\",
+      "ContentRoot": "/Users/wonkeuncho/Desktop/Folder/dev/BlazorStarted/BlazingPizza.ComponentsLibrary/wwwroot/",
       "BasePath": "_content/BlazingPizza.ComponentsLibrary",
       "RelativePath": "leaflet/images/marker-icon.png",
       "AssetKind": "All",
@@ -109,13 +109,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\leaflet\\images\\marker-icon.png"
+      "OriginalItemSpec": "wwwroot/leaflet/images/marker-icon.png"
     },
     {
-      "Identity": "c:\\Users\\s_cwnv2002\\Desktop\\study\\BlazorStarted\\BlazingPizza.ComponentsLibrary\\wwwroot\\leaflet\\images\\marker-shadow.png",
+      "Identity": "/Users/wonkeuncho/Desktop/Folder/dev/BlazorStarted/BlazingPizza.ComponentsLibrary/wwwroot/leaflet/images/marker-shadow.png",
       "SourceId": "BlazingPizza.ComponentsLibrary",
       "SourceType": "Discovered",
-      "ContentRoot": "c:\\Users\\s_cwnv2002\\Desktop\\study\\BlazorStarted\\BlazingPizza.ComponentsLibrary\\wwwroot\\",
+      "ContentRoot": "/Users/wonkeuncho/Desktop/Folder/dev/BlazorStarted/BlazingPizza.ComponentsLibrary/wwwroot/",
       "BasePath": "_content/BlazingPizza.ComponentsLibrary",
       "RelativePath": "leaflet/images/marker-shadow.png",
       "AssetKind": "All",
@@ -128,13 +128,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\leaflet\\images\\marker-shadow.png"
+      "OriginalItemSpec": "wwwroot/leaflet/images/marker-shadow.png"
     },
     {
-      "Identity": "c:\\Users\\s_cwnv2002\\Desktop\\study\\BlazorStarted\\BlazingPizza.ComponentsLibrary\\wwwroot\\leaflet\\leaflet.css",
+      "Identity": "/Users/wonkeuncho/Desktop/Folder/dev/BlazorStarted/BlazingPizza.ComponentsLibrary/wwwroot/leaflet/leaflet.css",
       "SourceId": "BlazingPizza.ComponentsLibrary",
       "SourceType": "Discovered",
-      "ContentRoot": "c:\\Users\\s_cwnv2002\\Desktop\\study\\BlazorStarted\\BlazingPizza.ComponentsLibrary\\wwwroot\\",
+      "ContentRoot": "/Users/wonkeuncho/Desktop/Folder/dev/BlazorStarted/BlazingPizza.ComponentsLibrary/wwwroot/",
       "BasePath": "_content/BlazingPizza.ComponentsLibrary",
       "RelativePath": "leaflet/leaflet.css",
       "AssetKind": "All",
@@ -147,13 +147,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\leaflet\\leaflet.css"
+      "OriginalItemSpec": "wwwroot/leaflet/leaflet.css"
     },
     {
-      "Identity": "c:\\Users\\s_cwnv2002\\Desktop\\study\\BlazorStarted\\BlazingPizza.ComponentsLibrary\\wwwroot\\leaflet\\leaflet.js",
+      "Identity": "/Users/wonkeuncho/Desktop/Folder/dev/BlazorStarted/BlazingPizza.ComponentsLibrary/wwwroot/leaflet/leaflet.js",
       "SourceId": "BlazingPizza.ComponentsLibrary",
       "SourceType": "Discovered",
-      "ContentRoot": "c:\\Users\\s_cwnv2002\\Desktop\\study\\BlazorStarted\\BlazingPizza.ComponentsLibrary\\wwwroot\\",
+      "ContentRoot": "/Users/wonkeuncho/Desktop/Folder/dev/BlazorStarted/BlazingPizza.ComponentsLibrary/wwwroot/",
       "BasePath": "_content/BlazingPizza.ComponentsLibrary",
       "RelativePath": "leaflet/leaflet.js",
       "AssetKind": "All",
@@ -166,13 +166,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\leaflet\\leaflet.js"
+      "OriginalItemSpec": "wwwroot/leaflet/leaflet.js"
     },
     {
-      "Identity": "c:\\Users\\s_cwnv2002\\Desktop\\study\\BlazorStarted\\BlazingPizza.ComponentsLibrary\\wwwroot\\localStorage.js",
+      "Identity": "/Users/wonkeuncho/Desktop/Folder/dev/BlazorStarted/BlazingPizza.ComponentsLibrary/wwwroot/localStorage.js",
       "SourceId": "BlazingPizza.ComponentsLibrary",
       "SourceType": "Discovered",
-      "ContentRoot": "c:\\Users\\s_cwnv2002\\Desktop\\study\\BlazorStarted\\BlazingPizza.ComponentsLibrary\\wwwroot\\",
+      "ContentRoot": "/Users/wonkeuncho/Desktop/Folder/dev/BlazorStarted/BlazingPizza.ComponentsLibrary/wwwroot/",
       "BasePath": "_content/BlazingPizza.ComponentsLibrary",
       "RelativePath": "localStorage.js",
       "AssetKind": "All",
@@ -185,13 +185,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\localStorage.js"
+      "OriginalItemSpec": "wwwroot/localStorage.js"
     },
     {
-      "Identity": "c:\\Users\\s_cwnv2002\\Desktop\\study\\BlazorStarted\\BlazingPizza.ComponentsLibrary\\wwwroot\\pushNotifications.js",
+      "Identity": "/Users/wonkeuncho/Desktop/Folder/dev/BlazorStarted/BlazingPizza.ComponentsLibrary/wwwroot/pushNotifications.js",
       "SourceId": "BlazingPizza.ComponentsLibrary",
       "SourceType": "Discovered",
-      "ContentRoot": "c:\\Users\\s_cwnv2002\\Desktop\\study\\BlazorStarted\\BlazingPizza.ComponentsLibrary\\wwwroot\\",
+      "ContentRoot": "/Users/wonkeuncho/Desktop/Folder/dev/BlazorStarted/BlazingPizza.ComponentsLibrary/wwwroot/",
       "BasePath": "_content/BlazingPizza.ComponentsLibrary",
       "RelativePath": "pushNotifications.js",
       "AssetKind": "All",
@@ -204,7 +204,7 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\pushNotifications.js"
+      "OriginalItemSpec": "wwwroot/pushNotifications.js"
     }
   ]
 }

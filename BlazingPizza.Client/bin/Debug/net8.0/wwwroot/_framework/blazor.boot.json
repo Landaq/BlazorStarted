@@ -1,15 +1,15 @@
 {
   "mainAssemblyName": "BlazingPizza.Client",
   "resources": {
-    "hash": "sha256-DscMn7YKTu9a3uJETXx3rRHWwYgooWSS0bKqYiXJjfE=",
+    "hash": "sha256-wOmZFLPX39kYSRjtLjOKIl07AGQCsybFK8J9SX+VOdw=",
     "jsModuleNative": {
-      "dotnet.native.8.0.0.pbx9tty0pm.js": "sha256-LjLDIz9+J7uuiwMlQ4HbNx2BnSpphOtO2MwkoI28vdI="
+      "dotnet.native.8.0.5.03apw8mlqi.js": "sha256-boyHe+0RMZDkzBKGhsrnXPhPg3oZ6UqJnTUzngJPjNY="
     },
     "jsModuleRuntime": {
-      "dotnet.runtime.8.0.0.2snl6ffg48.js": "sha256-WdSX3HQvnBYF0KJLZoOyHvTzMHetaob6PV0Kn2K+QXw="
+      "dotnet.runtime.8.0.5.h2s4l2zzpy.js": "sha256-5oi05+Ql/1JzyAphppAHmbRquli4a3/0XLMa8mQDKn8="
     },
     "wasmNative": {
-      "dotnet.native.wasm": "sha256-Vr6ZXKoP77zgabrMIxQ1GbOkrxfx5XGqHO0odLhUIMY="
+      "dotnet.native.wasm": "sha256-b3QtgAqvT5FoNyYgoEYsdE4zF5C1Is6lhQ8VEkROor8="
     },
     "icu": {
       "icudt_CJK.dat": "sha256-SZLtQnRc0JkwqHab0VUVP7T3uBPSeYzxzDnpxPpUnHk=",
@@ -214,14 +214,14 @@
       "mscorlib.wasm": "sha256-VCfYgt1mcjITabSTosCDVZ+68ea3Z7kakTFaLNLG+18=",
       "netstandard.wasm": "sha256-YOZxxR9PM3Dltcijfb0Q4FD39DkWZbZ1e2ScbZDvWJ4=",
       "System.Private.CoreLib.wasm": "sha256-NrT1QkAzVU//2wgK9vXdq77lCGvLJ4IOZ+Aegesyanc=",
-      "BlazingPizza.ComponentsLibrary.wasm": "sha256-GPVkkUO3zd6IelnUFRcZDOl3rrGE0akJcYhArqO4aBk=",
-      "BlazingPizza.Shared.wasm": "sha256-2DmtDbIOfHfhlVHnfIVKUhSchqX7GOuYNif5bVHbjLI=",
-      "BlazingPizza.Client.wasm": "sha256-dhCSxC1O/A/l30Ro/z1CK+ettUR+cspIvmHl5aoZU34="
+      "BlazingPizza.ComponentsLibrary.wasm": "sha256-CmuL3Ju660j6S3Cpxd7aqh/vlwmLY/aIXHpeexOU4R4=",
+      "BlazingPizza.Shared.wasm": "sha256-HbYDyq9Cp+5Ry7nUUcarUUHx1XYph5rOuLN5CIFft/w=",
+      "BlazingPizza.Client.wasm": "sha256-rqhBJqq9UkXgIHoleyF0Ml4UXQIxuNf6X2eB7PMOs4k="
     },
     "pdb": {
-      "BlazingPizza.ComponentsLibrary.pdb": "sha256-bj2+soUVUpqJuAwPVxbvu1eWA81WiDFEC2L+PZO86zs=",
-      "BlazingPizza.Shared.pdb": "sha256-mvqcoaDGZiPX7+/ckcP5vXOVDwEIbzVShnXckxLqqmg=",
-      "BlazingPizza.Client.pdb": "sha256-Q3aaXIPO49mds26fFvwncG1jJXBKUL9duFsvbvXI7MY="
+      "BlazingPizza.ComponentsLibrary.pdb": "sha256-fMgswHwZ62PkmCW/yyJn/KaVWxVRC0VLIy81+kgjNUM=",
+      "BlazingPizza.Shared.pdb": "sha256-tXQNNcreGBSzNzN0SWn/e0XXgXkm2j6edWS9hOu8Wk0=",
+      "BlazingPizza.Client.pdb": "sha256-WwQxiAwxBTQtLAOxc/8NMsb7kzax17gaZERKnusDjc8="
     }
   },
   "cacheBootResources": true,
