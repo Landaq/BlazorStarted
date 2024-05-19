@@ -13,47 +13,55 @@ build_property.EnforceExtendedAnalyzerRules =
 build_property._SupportedPlatformList = browser
 build_property.RootNamespace = BlazingPizza.Client
 build_property.RootNamespace = BlazingPizza.Client
-build_property.ProjectDir = C:\Users\s_cwnv2002\Desktop\study\BlazorStarted\BlazingPizza.Client\
+build_property.ProjectDir = c:\Users\s_cwnv2002\Desktop\study\BlazorStarted\BlazingPizza.Client\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = false
 build_property.RazorLangVersion = 8.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = C:\Users\s_cwnv2002\Desktop\study\BlazorStarted\BlazingPizza.Client
+build_property.MSBuildProjectDirectory = c:\Users\s_cwnv2002\Desktop\study\BlazorStarted\BlazingPizza.Client
 build_property._RazorSourceGeneratorDebug = 
 
-[C:/Users/s_cwnv2002/Desktop/study/BlazorStarted/BlazingPizza.Client/App.razor]
+[c:/Users/s_cwnv2002/Desktop/study/BlazorStarted/BlazingPizza.Client/App.razor]
 build_metadata.AdditionalFiles.TargetPath = QXBwLnJhem9y
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/s_cwnv2002/Desktop/study/BlazorStarted/BlazingPizza.Client/Pages/Index.razor]
+[c:/Users/s_cwnv2002/Desktop/study/BlazorStarted/BlazingPizza.Client/Pages/Checkout.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQ2hlY2tvdXQucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[c:/Users/s_cwnv2002/Desktop/study/BlazorStarted/BlazingPizza.Client/Pages/Index.razor]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcSW5kZXgucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/s_cwnv2002/Desktop/study/BlazorStarted/BlazingPizza.Client/Pages/MyOrders.razor]
+[c:/Users/s_cwnv2002/Desktop/study/BlazorStarted/BlazingPizza.Client/Pages/MyOrders.razor]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcTXlPcmRlcnMucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/s_cwnv2002/Desktop/study/BlazorStarted/BlazingPizza.Client/Pages/OrderDetails.razor]
+[c:/Users/s_cwnv2002/Desktop/study/BlazorStarted/BlazingPizza.Client/Pages/OrderDetails.razor]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcT3JkZXJEZXRhaWxzLnJhem9y
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/s_cwnv2002/Desktop/study/BlazorStarted/BlazingPizza.Client/Shared/ConfiguredPizzaItem.razor]
+[c:/Users/s_cwnv2002/Desktop/study/BlazorStarted/BlazingPizza.Client/Shared/AddressEditor.razor]
+build_metadata.AdditionalFiles.TargetPath = U2hhcmVkXEFkZHJlc3NFZGl0b3IucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[c:/Users/s_cwnv2002/Desktop/study/BlazorStarted/BlazingPizza.Client/Shared/ConfiguredPizzaItem.razor]
 build_metadata.AdditionalFiles.TargetPath = U2hhcmVkXENvbmZpZ3VyZWRQaXp6YUl0ZW0ucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/s_cwnv2002/Desktop/study/BlazorStarted/BlazingPizza.Client/Shared/ConfigurePizzaDialog.razor]
+[c:/Users/s_cwnv2002/Desktop/study/BlazorStarted/BlazingPizza.Client/Shared/ConfigurePizzaDialog.razor]
 build_metadata.AdditionalFiles.TargetPath = U2hhcmVkXENvbmZpZ3VyZVBpenphRGlhbG9nLnJhem9y
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/s_cwnv2002/Desktop/study/BlazorStarted/BlazingPizza.Client/Shared/MainLayout.razor]
+[c:/Users/s_cwnv2002/Desktop/study/BlazorStarted/BlazingPizza.Client/Shared/MainLayout.razor]
 build_metadata.AdditionalFiles.TargetPath = U2hhcmVkXE1haW5MYXlvdXQucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/s_cwnv2002/Desktop/study/BlazorStarted/BlazingPizza.Client/Shared/OrderReview.razor]
+[c:/Users/s_cwnv2002/Desktop/study/BlazorStarted/BlazingPizza.Client/Shared/OrderReview.razor]
 build_metadata.AdditionalFiles.TargetPath = U2hhcmVkXE9yZGVyUmV2aWV3LnJhem9y
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/s_cwnv2002/Desktop/study/BlazorStarted/BlazingPizza.Client/_Imports.razor]
+[c:/Users/s_cwnv2002/Desktop/study/BlazorStarted/BlazingPizza.Client/_Imports.razor]
 build_metadata.AdditionalFiles.TargetPath = X0ltcG9ydHMucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = 

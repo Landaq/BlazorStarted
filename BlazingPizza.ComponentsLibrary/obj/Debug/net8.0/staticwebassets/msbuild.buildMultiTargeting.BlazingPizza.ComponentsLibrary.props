@@ -1,3 +1,3 @@
 ﻿<Project>
-  <Import Project="../build/BlazingPizza.ComponentsLibrary.props" />
+  <Import Project="..\build\BlazingPizza.ComponentsLibrary.props" />
 </Project>
