@@ -1,22 +1,22 @@
 {
   "version": 2,
-  "dgSpecHash": "dO621z92UDU=",
+  "dgSpecHash": "9RdXzRM44AgbGcsK4GlApT6Zyz3PLoqVzmLZehd2XHcKokVdUQhzpILcxuMQop+kTeAkl5eq2S2O1Z0uo568iQ==",
   "success": true,
-  "projectFilePath": "/Users/wonkeuncho/Desktop/Folder/dev/BlazorStarted/BlazingPizza.Shared/BlazingPizza.Shared.csproj",
+  "projectFilePath": "C:\\Users\\s_cwnv2002\\Desktop\\study\\BlazorStarted\\BlazingPizza.Shared\\BlazingPizza.Shared.csproj",
   "expectedPackageFiles": [
-    "/Users/wonkeuncho/.nuget/packages/microsoft.aspnetcore.authorization/8.0.5/microsoft.aspnetcore.authorization.8.0.5.nupkg.sha512",
-    "/Users/wonkeuncho/.nuget/packages/microsoft.aspnetcore.components/8.0.5/microsoft.aspnetcore.components.8.0.5.nupkg.sha512",
-    "/Users/wonkeuncho/.nuget/packages/microsoft.aspnetcore.components.analyzers/8.0.5/microsoft.aspnetcore.components.analyzers.8.0.5.nupkg.sha512",
-    "/Users/wonkeuncho/.nuget/packages/microsoft.aspnetcore.components.forms/8.0.5/microsoft.aspnetcore.components.forms.8.0.5.nupkg.sha512",
-    "/Users/wonkeuncho/.nuget/packages/microsoft.aspnetcore.components.web/8.0.5/microsoft.aspnetcore.components.web.8.0.5.nupkg.sha512",
-    "/Users/wonkeuncho/.nuget/packages/microsoft.aspnetcore.metadata/8.0.5/microsoft.aspnetcore.metadata.8.0.5.nupkg.sha512",
-    "/Users/wonkeuncho/.nuget/packages/microsoft.extensions.dependencyinjection/8.0.0/microsoft.extensions.dependencyinjection.8.0.0.nupkg.sha512",
-    "/Users/wonkeuncho/.nuget/packages/microsoft.extensions.dependencyinjection.abstractions/8.0.1/microsoft.extensions.dependencyinjection.abstractions.8.0.1.nupkg.sha512",
-    "/Users/wonkeuncho/.nuget/packages/microsoft.extensions.logging.abstractions/8.0.1/microsoft.extensions.logging.abstractions.8.0.1.nupkg.sha512",
-    "/Users/wonkeuncho/.nuget/packages/microsoft.extensions.options/8.0.2/microsoft.extensions.options.8.0.2.nupkg.sha512",
-    "/Users/wonkeuncho/.nuget/packages/microsoft.extensions.primitives/8.0.0/microsoft.extensions.primitives.8.0.0.nupkg.sha512",
-    "/Users/wonkeuncho/.nuget/packages/microsoft.jsinterop/8.0.5/microsoft.jsinterop.8.0.5.nupkg.sha512",
-    "/Users/wonkeuncho/.nuget/packages/system.io.pipelines/8.0.0/system.io.pipelines.8.0.0.nupkg.sha512"
+    "C:\\Users\\s_cwnv2002\\.nuget\\packages\\microsoft.aspnetcore.authorization\\8.0.5\\microsoft.aspnetcore.authorization.8.0.5.nupkg.sha512",
+    "C:\\Users\\s_cwnv2002\\.nuget\\packages\\microsoft.aspnetcore.components\\8.0.5\\microsoft.aspnetcore.components.8.0.5.nupkg.sha512",
+    "C:\\Users\\s_cwnv2002\\.nuget\\packages\\microsoft.aspnetcore.components.analyzers\\8.0.5\\microsoft.aspnetcore.components.analyzers.8.0.5.nupkg.sha512",
+    "C:\\Users\\s_cwnv2002\\.nuget\\packages\\microsoft.aspnetcore.components.forms\\8.0.5\\microsoft.aspnetcore.components.forms.8.0.5.nupkg.sha512",
+    "C:\\Users\\s_cwnv2002\\.nuget\\packages\\microsoft.aspnetcore.components.web\\8.0.5\\microsoft.aspnetcore.components.web.8.0.5.nupkg.sha512",
+    "C:\\Users\\s_cwnv2002\\.nuget\\packages\\microsoft.aspnetcore.metadata\\8.0.5\\microsoft.aspnetcore.metadata.8.0.5.nupkg.sha512",
+    "C:\\Users\\s_cwnv2002\\.nuget\\packages\\microsoft.extensions.dependencyinjection\\8.0.0\\microsoft.extensions.dependencyinjection.8.0.0.nupkg.sha512",
+    "C:\\Users\\s_cwnv2002\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\8.0.1\\microsoft.extensions.dependencyinjection.abstractions.8.0.1.nupkg.sha512",
+    "C:\\Users\\s_cwnv2002\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\8.0.1\\microsoft.extensions.logging.abstractions.8.0.1.nupkg.sha512",
+    "C:\\Users\\s_cwnv2002\\.nuget\\packages\\microsoft.extensions.options\\8.0.2\\microsoft.extensions.options.8.0.2.nupkg.sha512",
+    "C:\\Users\\s_cwnv2002\\.nuget\\packages\\microsoft.extensions.primitives\\8.0.0\\microsoft.extensions.primitives.8.0.0.nupkg.sha512",
+    "C:\\Users\\s_cwnv2002\\.nuget\\packages\\microsoft.jsinterop\\8.0.5\\microsoft.jsinterop.8.0.5.nupkg.sha512",
+    "C:\\Users\\s_cwnv2002\\.nuget\\packages\\system.io.pipelines\\8.0.0\\system.io.pipelines.8.0.0.nupkg.sha512"
   ],
   "logs": []
 }
