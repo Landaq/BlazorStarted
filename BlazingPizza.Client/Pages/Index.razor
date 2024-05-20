@@ -48,10 +48,12 @@
 
 @if (OrderState.showingConfigureDialog)
 {
-    <ConfigurePizzaDialog 
-        Pizza="OrderState.ConfiguringPizza" 
-        OnCancel="OrderState.CancelConfigurePizzaDialog"
-        OnConfirm="OrderState.ConfirmConfigurePizzaDialog" />
+    <TemplateDialog Show="OrderState.showingConfigureDialog">
+        <ConfigurePizzaDialog 
+            Pizza="OrderState.ConfiguringPizza"
+            OnCancel="OrderState.CancelConfigurePizzaDialog"
+            OnConfirm="OrderState.ConfirmConfigurePizzaDialog" />
+    </TemplateDialog>
 }
 
 @code {

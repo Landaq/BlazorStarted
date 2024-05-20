@@ -11,8 +11,13 @@
 using System;
 using System.Reflection;
 
-[assembly: Microsoft.AspNetCore.Mvc.ApplicationParts.ApplicationPartAttribute("Microsoft.AspNetCore.ApiAuthorization.IdentityServer")]
-[assembly: Microsoft.AspNetCore.Mvc.ApplicationParts.ApplicationPartAttribute("Microsoft.AspNetCore.Identity.UI")]
+[assembly: System.Reflection.AssemblyCompanyAttribute("BlazingComponents")]
+[assembly: System.Reflection.AssemblyConfigurationAttribute("Release")]
+[assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+83dfc9edda252d8c167f3b03072d546e8fd42ebc")]
+[assembly: System.Reflection.AssemblyProductAttribute("BlazingComponents")]
+[assembly: System.Reflection.AssemblyTitleAttribute("BlazingComponents")]
+[assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
 
 // MSBuild WriteCodeFragment 클래스에서 생성되었습니다.
 

@@ -1,7 +1,7 @@
 {
   "mainAssemblyName": "BlazingPizza.Client",
   "resources": {
-    "hash": "sha256-Vt0vWzztmVFPkc6+qotEaLCErDu5QkAPhClhxqeMFcY=",
+    "hash": "sha256-P5zeUVTXsI7dBtxrQ56JWlrvTMguVTUz1v6S8WRSgso=",
     "jsModuleNative": {
       "dotnet.native.8.0.4.7x8xj5fhft.js": "sha256-ju0+XWE0ihz554eKEj0HQ8Opa61xpbUIaX5/MNo8we4="
     },
@@ -214,14 +214,16 @@
       "mscorlib.wasm": "sha256-VCfYgt1mcjITabSTosCDVZ+68ea3Z7kakTFaLNLG+18=",
       "netstandard.wasm": "sha256-YOZxxR9PM3Dltcijfb0Q4FD39DkWZbZ1e2ScbZDvWJ4=",
       "System.Private.CoreLib.wasm": "sha256-NrT1QkAzVU//2wgK9vXdq77lCGvLJ4IOZ+Aegesyanc=",
-      "BlazingPizza.ComponentsLibrary.wasm": "sha256-obNornBn4iO1pXcHj8JL7mR6xZ4ZA1pafb5IJrOQhRA=",
-      "BlazingPizza.Shared.wasm": "sha256-fI9EvvETYKBbo6EwljnqeQS/Fn3764J41jqERlcrvTU=",
-      "BlazingPizza.Client.wasm": "sha256-chnAuIdvpclLBtZ8BvOBMmvxtRyzRRQNvJtgbXTm0yY="
+      "BlazingComponents.wasm": "sha256-AJYeswg/gFIZWmYn+vN+BkXbIyAvAIKFQv3L0HHqPoc=",
+      "BlazingPizza.ComponentsLibrary.wasm": "sha256-6fRTKBRVRAr/KE18UpjoTeJ6QTutHlBuEsPLE39i7bk=",
+      "BlazingPizza.Shared.wasm": "sha256-KwYDtJzw5zbvchwkbo3UrGl1FacCMN7fVtLBRSVvNLc=",
+      "BlazingPizza.Client.wasm": "sha256-D8UJEW5S9oUCNr/naE+Mw56kNleNMTvVsztq1/X3hec="
     },
     "pdb": {
-      "BlazingPizza.ComponentsLibrary.pdb": "sha256-+60vXFvRGywVbRcVrEXg2+Pt/QJ4hSGTzoAI/0PkIDo=",
-      "BlazingPizza.Shared.pdb": "sha256-JGg/zbtM2XdQ8VPypLZwHVHxt9N4M7Ed7GC4MXgZ0MA=",
-      "BlazingPizza.Client.pdb": "sha256-toUQokKadnlkeISXaleUcsZ8isyMx4KtdYOjLXQWgzU="
+      "BlazingComponents.pdb": "sha256-YiwOwB03vrq8YiOJr0FLGJFjDU5WIPDQRUt2SlEQHF4=",
+      "BlazingPizza.ComponentsLibrary.pdb": "sha256-CWxZRWmJYlXJkTTHOu5IpVPs04HvKFCMiiJQxbyjzPU=",
+      "BlazingPizza.Shared.pdb": "sha256-c3t5bbx92AXAEiDEIwDVm6QjR7tAlgZDYgkhr/C8oeM=",
+      "BlazingPizza.Client.pdb": "sha256-N5qCrgS9aMrIYi6V6ACWCgQGgRZB6ebp55JcS0/9NSo="
     }
   },
   "cacheBootResources": true,

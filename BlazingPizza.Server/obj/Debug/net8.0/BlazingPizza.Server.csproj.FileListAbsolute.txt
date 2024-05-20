@@ -91,7 +91,6 @@ C:/Users/V14066/Source/Repos/Landaq/BlazorStarted/BlazingPizza.Server/obj/Debug/
 C:/Users/V14066/Source/Repos/Landaq/BlazorStarted/BlazingPizza.Server/obj/Debug/net8.0/BlazingPizza.Server.AssemblyInfoInputs.cache
 C:/Users/V14066/Source/Repos/Landaq/BlazorStarted/BlazingPizza.Server/obj/Debug/net8.0/BlazingPizza.Server.AssemblyInfo.cs
 C:/Users/V14066/Source/Repos/Landaq/BlazorStarted/BlazingPizza.Server/obj/Debug/net8.0/BlazingPizza.Server.csproj.CoreCompileInputs.cache
-C:/Users/V14066/Source/Repos/Landaq/BlazorStarted/BlazingPizza.Server/obj/Debug/net8.0/BlazingPizza.Server.MvcApplicationPartsAssemblyInfo.cs
 C:/Users/V14066/Source/Repos/Landaq/BlazorStarted/BlazingPizza.Server/obj/Debug/net8.0/BlazingPizza.Server.MvcApplicationPartsAssemblyInfo.cache
 C:/Users/V14066/Source/Repos/Landaq/BlazorStarted/BlazingPizza.Server/obj/Debug/net8.0/BlazingPizza.Server.RazorAssemblyInfo.cache
 C:/Users/V14066/Source/Repos/Landaq/BlazorStarted/BlazingPizza.Server/obj/Debug/net8.0/BlazingPizza.Server.RazorAssemblyInfo.cs
@@ -739,7 +738,6 @@ C:\Users\V14066\Source\Repos\Landaq\BlazorStarted\BlazingPizza.Server\obj\Debug\
 C:\Users\V14066\Source\Repos\Landaq\BlazorStarted\BlazingPizza.Server\obj\Debug\net8.0\BlazingPizza.Server.AssemblyInfoInputs.cache
 C:\Users\V14066\Source\Repos\Landaq\BlazorStarted\BlazingPizza.Server\obj\Debug\net8.0\BlazingPizza.Server.AssemblyInfo.cs
 C:\Users\V14066\Source\Repos\Landaq\BlazorStarted\BlazingPizza.Server\obj\Debug\net8.0\BlazingPizza.Server.csproj.CoreCompileInputs.cache
-C:\Users\V14066\Source\Repos\Landaq\BlazorStarted\BlazingPizza.Server\obj\Debug\net8.0\BlazingPizza.Server.MvcApplicationPartsAssemblyInfo.cs
 C:\Users\V14066\Source\Repos\Landaq\BlazorStarted\BlazingPizza.Server\obj\Debug\net8.0\BlazingPizza.Server.MvcApplicationPartsAssemblyInfo.cache
 C:\Users\V14066\Source\Repos\Landaq\BlazorStarted\BlazingPizza.Server\obj\Debug\net8.0\BlazingPizza.Server.RazorAssemblyInfo.cache
 C:\Users\V14066\Source\Repos\Landaq\BlazorStarted\BlazingPizza.Server\obj\Debug\net8.0\BlazingPizza.Server.RazorAssemblyInfo.cs
@@ -758,3 +756,6 @@ C:\Users\V14066\Source\Repos\Landaq\BlazorStarted\BlazingPizza.Server\obj\Debug\
 C:\Users\V14066\Source\Repos\Landaq\BlazorStarted\BlazingPizza.Server\obj\Debug\net8.0\BlazingPizza.Server.pdb
 C:\Users\V14066\Source\Repos\Landaq\BlazorStarted\BlazingPizza.Server\obj\Debug\net8.0\BlazingPizza.Server.genruntimeconfig.cache
 C:\Users\V14066\Source\Repos\Landaq\BlazorStarted\BlazingPizza.Server\obj\Debug\net8.0\ref\BlazingPizza.Server.dll
+C:\Users\V14066\Source\Repos\Landaq\BlazorStarted\BlazingPizza.Server\bin\Debug\net8.0\BlazingComponents.staticwebassets.runtime.json
+C:\Users\V14066\Source\Repos\Landaq\BlazorStarted\BlazingPizza.Server\bin\Debug\net8.0\BlazingComponents.dll
+C:\Users\V14066\Source\Repos\Landaq\BlazorStarted\BlazingPizza.Server\bin\Debug\net8.0\BlazingComponents.pdb

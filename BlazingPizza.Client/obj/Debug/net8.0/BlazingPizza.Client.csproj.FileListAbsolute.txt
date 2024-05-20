@@ -4310,3 +4310,13 @@ C:\Users\V14066\Source\Repos\Landaq\BlazorStarted\BlazingPizza.Client\obj\Debug\
 C:\Users\V14066\Source\Repos\Landaq\BlazorStarted\BlazingPizza.Client\obj\Debug\net8.0\refint\BlazingPizza.Client.dll
 C:\Users\V14066\Source\Repos\Landaq\BlazorStarted\BlazingPizza.Client\obj\Debug\net8.0\BlazingPizza.Client.pdb
 C:\Users\V14066\Source\Repos\Landaq\BlazorStarted\BlazingPizza.Client\obj\Debug\net8.0\ref\BlazingPizza.Client.dll
+C:\Users\V14066\Source\Repos\Landaq\BlazorStarted\BlazingPizza.Client\bin\Debug\net8.0\wwwroot\_framework\BlazingComponents.pdb
+C:\Users\V14066\Source\Repos\Landaq\BlazorStarted\BlazingPizza.Client\bin\Debug\net8.0\wwwroot\_framework\BlazingComponents.wasm
+C:\Users\V14066\Source\Repos\Landaq\BlazorStarted\BlazingPizza.Client\bin\Debug\net8.0\wwwroot\_framework\BlazingComponents.wasm.gz
+C:\Users\V14066\Source\Repos\Landaq\BlazorStarted\BlazingPizza.Client\bin\Debug\net8.0\wwwroot\_framework\BlazingComponents.pdb.gz
+C:\Users\V14066\Source\Repos\Landaq\BlazorStarted\BlazingPizza.Client\bin\Debug\net8.0\BlazingComponents.staticwebassets.runtime.json
+C:\Users\V14066\Source\Repos\Landaq\BlazorStarted\BlazingPizza.Client\bin\Debug\net8.0\BlazingComponents.dll
+C:\Users\V14066\Source\Repos\Landaq\BlazorStarted\BlazingPizza.Client\bin\Debug\net8.0\BlazingComponents.pdb
+C:\Users\V14066\Source\Repos\Landaq\BlazorStarted\BlazingPizza.Client\obj\Debug\net8.0\webcil\BlazingComponents.wasm
+C:\Users\V14066\Source\Repos\Landaq\BlazorStarted\BlazingPizza.Client\obj\Debug\net8.0\compressed\a8wdm8mdqi.gz
+C:\Users\V14066\Source\Repos\Landaq\BlazorStarted\BlazingPizza.Client\obj\Debug\net8.0\compressed\zsrzl4mftq.gz
