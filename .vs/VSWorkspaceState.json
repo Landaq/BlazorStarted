@@ -1,7 +1,8 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\BlazingPizza.Client",
+    "\\BlazingPizza.Client\\Pages"
   ],
-  "SelectedNode": "\\BlazingPizza.sln",
   "PreviewInSolutionExplorer": false
 }

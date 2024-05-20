@@ -1,36 +1,48 @@
 {
   "format": 1,
   "restore": {
-    "/Users/wonkeuncho/Desktop/Folder/dev/BlazorStarted/BlazingPizza.Client/BlazingPizza.Client.csproj": {}
+    "C:\\Users\\V14066\\source\\repos\\Landaq\\BlazorStarted\\BlazingPizza.Client\\BlazingPizza.Client.csproj": {}
   },
   "projects": {
-    "/Users/wonkeuncho/Desktop/Folder/dev/BlazorStarted/BlazingPizza.Client/BlazingPizza.Client.csproj": {
+    "C:\\Users\\V14066\\source\\repos\\Landaq\\BlazorStarted\\BlazingPizza.Client\\BlazingPizza.Client.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/wonkeuncho/Desktop/Folder/dev/BlazorStarted/BlazingPizza.Client/BlazingPizza.Client.csproj",
+        "projectUniqueName": "C:\\Users\\V14066\\source\\repos\\Landaq\\BlazorStarted\\BlazingPizza.Client\\BlazingPizza.Client.csproj",
         "projectName": "BlazingPizza.Client",
-        "projectPath": "/Users/wonkeuncho/Desktop/Folder/dev/BlazorStarted/BlazingPizza.Client/BlazingPizza.Client.csproj",
-        "packagesPath": "/Users/wonkeuncho/.nuget/packages/",
-        "outputPath": "/Users/wonkeuncho/Desktop/Folder/dev/BlazorStarted/BlazingPizza.Client/obj/",
+        "projectPath": "C:\\Users\\V14066\\source\\repos\\Landaq\\BlazorStarted\\BlazingPizza.Client\\BlazingPizza.Client.csproj",
+        "packagesPath": "C:\\Users\\V14066\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\V14066\\source\\repos\\Landaq\\BlazorStarted\\BlazingPizza.Client\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\DevExpress 22.1\\Components\\Offline Packages",
+          "C:\\Program Files\\DevExpress 23.1\\Components\\Offline Packages",
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
         "configFilePaths": [
-          "/Users/wonkeuncho/.nuget/NuGet/NuGet.Config"
+          "C:\\Users\\V14066\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\DevExpress 22.1.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\DevExpress 23.1.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "net8.0"
         ],
         "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\DevExpress 22.1\\Components\\System\\Components\\Packages": {},
+          "C:\\Program Files\\DevExpress 23.1\\Components\\System\\Components\\Packages": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "/Users/wonkeuncho/Desktop/Folder/dev/BlazorStarted/BlazingPizza.ComponentsLibrary/BlazingPizza.ComponentsLibrary.csproj": {
-                "projectPath": "/Users/wonkeuncho/Desktop/Folder/dev/BlazorStarted/BlazingPizza.ComponentsLibrary/BlazingPizza.ComponentsLibrary.csproj"
+              "C:\\Users\\V14066\\source\\repos\\Landaq\\BlazorStarted\\BlazingPizza.ComponentsLibrary\\BlazingPizza.ComponentsLibrary.csproj": {
+                "projectPath": "C:\\Users\\V14066\\source\\repos\\Landaq\\BlazorStarted\\BlazingPizza.ComponentsLibrary\\BlazingPizza.ComponentsLibrary.csproj"
               },
-              "/Users/wonkeuncho/Desktop/Folder/dev/BlazorStarted/BlazingPizza.Shared/BlazingPizza.Shared.csproj": {
-                "projectPath": "/Users/wonkeuncho/Desktop/Folder/dev/BlazorStarted/BlazingPizza.Shared/BlazingPizza.Shared.csproj"
+              "C:\\Users\\V14066\\source\\repos\\Landaq\\BlazorStarted\\BlazingPizza.Shared\\BlazingPizza.Shared.csproj": {
+                "projectPath": "C:\\Users\\V14066\\source\\repos\\Landaq\\BlazorStarted\\BlazingPizza.Shared\\BlazingPizza.Shared.csproj"
               }
             }
           }
@@ -65,13 +77,13 @@
             "Microsoft.NET.ILLink.Tasks": {
               "suppressParent": "All",
               "target": "Package",
-              "version": "[8.0.5, )",
+              "version": "[8.0.4, )",
               "autoReferenced": true
             },
             "Microsoft.NET.Sdk.WebAssembly.Pack": {
               "suppressParent": "All",
               "target": "Package",
-              "version": "[8.0.5, )",
+              "version": "[8.0.4, )",
               "autoReferenced": true
             },
             "System.Net.Http.Json": {
@@ -93,7 +105,7 @@
           "downloadDependencies": [
             {
               "name": "Microsoft.NETCore.App.Runtime.Mono.browser-wasm",
-              "version": "[8.0.5, 8.0.5]"
+              "version": "[8.0.4, 8.0.4]"
             }
           ],
           "frameworkReferences": {
@@ -101,7 +113,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/8.0.300/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.204/PortableRuntimeIdentifierGraph.json"
         }
       },
       "runtimes": {
@@ -110,22 +122,34 @@
         }
       }
     },
-    "/Users/wonkeuncho/Desktop/Folder/dev/BlazorStarted/BlazingPizza.ComponentsLibrary/BlazingPizza.ComponentsLibrary.csproj": {
+    "C:\\Users\\V14066\\source\\repos\\Landaq\\BlazorStarted\\BlazingPizza.ComponentsLibrary\\BlazingPizza.ComponentsLibrary.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/wonkeuncho/Desktop/Folder/dev/BlazorStarted/BlazingPizza.ComponentsLibrary/BlazingPizza.ComponentsLibrary.csproj",
+        "projectUniqueName": "C:\\Users\\V14066\\source\\repos\\Landaq\\BlazorStarted\\BlazingPizza.ComponentsLibrary\\BlazingPizza.ComponentsLibrary.csproj",
         "projectName": "BlazingPizza.ComponentsLibrary",
-        "projectPath": "/Users/wonkeuncho/Desktop/Folder/dev/BlazorStarted/BlazingPizza.ComponentsLibrary/BlazingPizza.ComponentsLibrary.csproj",
-        "packagesPath": "/Users/wonkeuncho/.nuget/packages/",
-        "outputPath": "/Users/wonkeuncho/Desktop/Folder/dev/BlazorStarted/BlazingPizza.ComponentsLibrary/obj/",
+        "projectPath": "C:\\Users\\V14066\\source\\repos\\Landaq\\BlazorStarted\\BlazingPizza.ComponentsLibrary\\BlazingPizza.ComponentsLibrary.csproj",
+        "packagesPath": "C:\\Users\\V14066\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\V14066\\source\\repos\\Landaq\\BlazorStarted\\BlazingPizza.ComponentsLibrary\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\DevExpress 22.1\\Components\\Offline Packages",
+          "C:\\Program Files\\DevExpress 23.1\\Components\\Offline Packages",
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
         "configFilePaths": [
-          "/Users/wonkeuncho/.nuget/NuGet/NuGet.Config"
+          "C:\\Users\\V14066\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\DevExpress 22.1.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\DevExpress 23.1.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "net8.0"
         ],
         "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\DevExpress 22.1\\Components\\System\\Components\\Packages": {},
+          "C:\\Program Files\\DevExpress 23.1\\Components\\System\\Components\\Packages": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -174,34 +198,46 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/8.0.300/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.204/PortableRuntimeIdentifierGraph.json"
         }
       }
     },
-    "/Users/wonkeuncho/Desktop/Folder/dev/BlazorStarted/BlazingPizza.Shared/BlazingPizza.Shared.csproj": {
+    "C:\\Users\\V14066\\source\\repos\\Landaq\\BlazorStarted\\BlazingPizza.Shared\\BlazingPizza.Shared.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/wonkeuncho/Desktop/Folder/dev/BlazorStarted/BlazingPizza.Shared/BlazingPizza.Shared.csproj",
+        "projectUniqueName": "C:\\Users\\V14066\\source\\repos\\Landaq\\BlazorStarted\\BlazingPizza.Shared\\BlazingPizza.Shared.csproj",
         "projectName": "BlazingPizza.Shared",
-        "projectPath": "/Users/wonkeuncho/Desktop/Folder/dev/BlazorStarted/BlazingPizza.Shared/BlazingPizza.Shared.csproj",
-        "packagesPath": "/Users/wonkeuncho/.nuget/packages/",
-        "outputPath": "/Users/wonkeuncho/Desktop/Folder/dev/BlazorStarted/BlazingPizza.Shared/obj/",
+        "projectPath": "C:\\Users\\V14066\\source\\repos\\Landaq\\BlazorStarted\\BlazingPizza.Shared\\BlazingPizza.Shared.csproj",
+        "packagesPath": "C:\\Users\\V14066\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\V14066\\source\\repos\\Landaq\\BlazorStarted\\BlazingPizza.Shared\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\DevExpress 22.1\\Components\\Offline Packages",
+          "C:\\Program Files\\DevExpress 23.1\\Components\\Offline Packages",
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
         "configFilePaths": [
-          "/Users/wonkeuncho/.nuget/NuGet/NuGet.Config"
+          "C:\\Users\\V14066\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\DevExpress 22.1.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\DevExpress 23.1.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "net8.0"
         ],
         "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\DevExpress 22.1\\Components\\System\\Components\\Packages": {},
+          "C:\\Program Files\\DevExpress 23.1\\Components\\System\\Components\\Packages": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "/Users/wonkeuncho/Desktop/Folder/dev/BlazorStarted/BlazingPizza.ComponentsLibrary/BlazingPizza.ComponentsLibrary.csproj": {
-                "projectPath": "/Users/wonkeuncho/Desktop/Folder/dev/BlazorStarted/BlazingPizza.ComponentsLibrary/BlazingPizza.ComponentsLibrary.csproj"
+              "C:\\Users\\V14066\\source\\repos\\Landaq\\BlazorStarted\\BlazingPizza.ComponentsLibrary\\BlazingPizza.ComponentsLibrary.csproj": {
+                "projectPath": "C:\\Users\\V14066\\source\\repos\\Landaq\\BlazorStarted\\BlazingPizza.ComponentsLibrary\\BlazingPizza.ComponentsLibrary.csproj"
               }
             }
           }
@@ -236,7 +272,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/8.0.300/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.204/PortableRuntimeIdentifierGraph.json"
         }
       }
     }

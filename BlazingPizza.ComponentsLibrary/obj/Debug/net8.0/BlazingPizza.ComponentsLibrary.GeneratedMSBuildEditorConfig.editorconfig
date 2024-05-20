@@ -9,15 +9,15 @@ build_property.EnforceExtendedAnalyzerRules =
 build_property._SupportedPlatformList = Linux,macOS,Windows,browser
 build_property.RootNamespace = BlazingPizza.ComponentsLibrary
 build_property.RootNamespace = BlazingPizza.ComponentsLibrary
-build_property.ProjectDir = /Users/wonkeuncho/Desktop/Folder/dev/BlazorStarted/BlazingPizza.ComponentsLibrary/
+build_property.ProjectDir = C:\Users\V14066\source\repos\Landaq\BlazorStarted\BlazingPizza.ComponentsLibrary\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 
 build_property.RazorLangVersion = 8.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = /Users/wonkeuncho/Desktop/Folder/dev/BlazorStarted/BlazingPizza.ComponentsLibrary
+build_property.MSBuildProjectDirectory = C:\Users\V14066\source\repos\Landaq\BlazorStarted\BlazingPizza.ComponentsLibrary
 build_property._RazorSourceGeneratorDebug = 
 
-[/Users/wonkeuncho/Desktop/Folder/dev/BlazorStarted/BlazingPizza.ComponentsLibrary/Map/Map.razor]
-build_metadata.AdditionalFiles.TargetPath = TWFwL01hcC5yYXpvcg==
+[C:/Users/V14066/source/repos/Landaq/BlazorStarted/BlazingPizza.ComponentsLibrary/Map/Map.razor]
+build_metadata.AdditionalFiles.TargetPath = TWFwXE1hcC5yYXpvcg==
 build_metadata.AdditionalFiles.CssScope = 

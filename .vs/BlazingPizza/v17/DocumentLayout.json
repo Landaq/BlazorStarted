@@ -3,8 +3,28 @@
   "WorkspaceRootPath": "C:\\Users\\V14066\\source\\repos\\Landaq\\BlazorStarted\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{C33040F6-6F46-4AA2-8A8D-A97C934A0856}|BlazingPizza.Client\\BlazingPizza.Client.csproj|c:\\users\\v14066\\source\\repos\\landaq\\blazorstarted\\blazingpizza.client\\pages\\index.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{C33040F6-6F46-4AA2-8A8D-A97C934A0856}|BlazingPizza.Client\\BlazingPizza.Client.csproj|C:\\Users\\V14066\\source\\repos\\Landaq\\BlazorStarted\\blazingpizza.client\\pages\\index.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{C33040F6-6F46-4AA2-8A8D-A97C934A0856}|BlazingPizza.Client\\BlazingPizza.Client.csproj|solutionrelative:blazingpizza.client\\pages\\index.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C33040F6-6F46-4AA2-8A8D-A97C934A0856}|BlazingPizza.Client\\BlazingPizza.Client.csproj|c:\\users\\v14066\\source\\repos\\landaq\\blazorstarted\\blazingpizza.client\\jsruntiemextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C33040F6-6F46-4AA2-8A8D-A97C934A0856}|BlazingPizza.Client\\BlazingPizza.Client.csproj|solutionrelative:blazingpizza.client\\jsruntiemextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C33040F6-6F46-4AA2-8A8D-A97C934A0856}|BlazingPizza.Client\\BlazingPizza.Client.csproj|c:\\users\\v14066\\source\\repos\\landaq\\blazorstarted\\blazingpizza.client\\pages\\orderdetails.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C33040F6-6F46-4AA2-8A8D-A97C934A0856}|BlazingPizza.Client\\BlazingPizza.Client.csproj|solutionrelative:blazingpizza.client\\pages\\orderdetails.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C33040F6-6F46-4AA2-8A8D-A97C934A0856}|BlazingPizza.Client\\BlazingPizza.Client.csproj|C:\\Users\\V14066\\source\\repos\\Landaq\\BlazorStarted\\blazingpizza.client\\_imports.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C33040F6-6F46-4AA2-8A8D-A97C934A0856}|BlazingPizza.Client\\BlazingPizza.Client.csproj|solutionrelative:blazingpizza.client\\_imports.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0C421DC9-9F9A-4C97-9BC5-D959E8840864}|BlazingPizza.ComponentsLibrary\\BlazingPizza.ComponentsLibrary.csproj|C:\\Users\\V14066\\source\\repos\\Landaq\\BlazorStarted\\blazingpizza.componentslibrary\\map\\map.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0C421DC9-9F9A-4C97-9BC5-D959E8840864}|BlazingPizza.ComponentsLibrary\\BlazingPizza.ComponentsLibrary.csproj|solutionrelative:blazingpizza.componentslibrary\\map\\map.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C33040F6-6F46-4AA2-8A8D-A97C934A0856}|BlazingPizza.Client\\BlazingPizza.Client.csproj|C:\\Users\\V14066\\source\\repos\\Landaq\\BlazorStarted\\blazingpizza.client\\ordersclient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C33040F6-6F46-4AA2-8A8D-A97C934A0856}|BlazingPizza.Client\\BlazingPizza.Client.csproj|solutionrelative:blazingpizza.client\\ordersclient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -14,7 +34,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 7,
+          "SelectedChildIndex": 12,
           "Children": [
             {
               "$type": "Bookmark",
@@ -46,13 +66,75 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "JSRuntiemExtensions.cs",
+              "DocumentMoniker": "C:\\Users\\V14066\\source\\repos\\Landaq\\BlazorStarted\\BlazingPizza.Client\\JSRuntiemExtensions.cs",
+              "RelativeDocumentMoniker": "BlazingPizza.Client\\JSRuntiemExtensions.cs",
+              "ToolTip": "C:\\Users\\V14066\\source\\repos\\Landaq\\BlazorStarted\\BlazingPizza.Client\\JSRuntiemExtensions.cs",
+              "RelativeToolTip": "BlazingPizza.Client\\JSRuntiemExtensions.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-20T01:12:12.431Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "OrderDetails.razor",
+              "DocumentMoniker": "C:\\Users\\V14066\\source\\repos\\Landaq\\BlazorStarted\\BlazingPizza.Client\\Pages\\OrderDetails.razor",
+              "RelativeDocumentMoniker": "BlazingPizza.Client\\Pages\\OrderDetails.razor",
+              "ToolTip": "C:\\Users\\V14066\\source\\repos\\Landaq\\BlazorStarted\\BlazingPizza.Client\\Pages\\OrderDetails.razor",
+              "RelativeToolTip": "BlazingPizza.Client\\Pages\\OrderDetails.razor",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB0AAABBAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-20T00:52:52.266Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "_Imports.razor",
+              "DocumentMoniker": "C:\\Users\\V14066\\source\\repos\\Landaq\\BlazorStarted\\BlazingPizza.Client\\_Imports.razor",
+              "RelativeDocumentMoniker": "BlazingPizza.Client\\_Imports.razor",
+              "ToolTip": "C:\\Users\\V14066\\source\\repos\\Landaq\\BlazorStarted\\BlazingPizza.Client\\_Imports.razor",
+              "RelativeToolTip": "BlazingPizza.Client\\_Imports.razor",
+              "ViewState": "AQIAAAAAAAAAAAAAAADwvw0AAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-20T00:52:23.711Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Map.razor",
+              "DocumentMoniker": "C:\\Users\\V14066\\source\\repos\\Landaq\\BlazorStarted\\BlazingPizza.ComponentsLibrary\\Map\\Map.razor",
+              "RelativeDocumentMoniker": "BlazingPizza.ComponentsLibrary\\Map\\Map.razor",
+              "ToolTip": "C:\\Users\\V14066\\source\\repos\\Landaq\\BlazorStarted\\BlazingPizza.ComponentsLibrary\\Map\\Map.razor",
+              "RelativeToolTip": "BlazingPizza.ComponentsLibrary\\Map\\Map.razor",
+              "ViewState": "AQIAAAAAAAAAAAAAAADwvwAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-20T00:43:11.014Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "OrdersClient.cs",
+              "DocumentMoniker": "C:\\Users\\V14066\\source\\repos\\Landaq\\BlazorStarted\\BlazingPizza.Client\\OrdersClient.cs",
+              "RelativeDocumentMoniker": "BlazingPizza.Client\\OrdersClient.cs",
+              "ToolTip": "C:\\Users\\V14066\\source\\repos\\Landaq\\BlazorStarted\\BlazingPizza.Client\\OrdersClient.cs",
+              "RelativeToolTip": "BlazingPizza.Client\\OrdersClient.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAADwvwAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-20T00:38:39.286Z"
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Index.razor",
               "DocumentMoniker": "C:\\Users\\V14066\\source\\repos\\Landaq\\BlazorStarted\\BlazingPizza.Client\\Pages\\Index.razor",
               "RelativeDocumentMoniker": "BlazingPizza.Client\\Pages\\Index.razor",
               "ToolTip": "C:\\Users\\V14066\\source\\repos\\Landaq\\BlazorStarted\\BlazingPizza.Client\\Pages\\Index.razor",
               "RelativeToolTip": "BlazingPizza.Client\\Pages\\Index.razor",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAAhAAAA",
+              "ViewState": "AQIAACoAAAAAAAAAAAAAADIAAAAaAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2024-05-18T06:16:29.377Z",
               "EditorCaption": ""

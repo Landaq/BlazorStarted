@@ -545,13 +545,13 @@
           }
         }
       },
-      "Microsoft.NET.ILLink.Tasks/8.0.5": {
+      "Microsoft.NET.ILLink.Tasks/8.0.4": {
         "type": "package",
         "build": {
           "build/Microsoft.NET.ILLink.Tasks.props": {}
         }
       },
-      "Microsoft.NET.Sdk.WebAssembly.Pack/8.0.5": {
+      "Microsoft.NET.Sdk.WebAssembly.Pack/8.0.4": {
         "type": "package",
         "build": {
           "build/Microsoft.NET.Sdk.WebAssembly.Pack.props": {},
@@ -1222,13 +1222,13 @@
           }
         }
       },
-      "Microsoft.NET.ILLink.Tasks/8.0.5": {
+      "Microsoft.NET.ILLink.Tasks/8.0.4": {
         "type": "package",
         "build": {
           "build/Microsoft.NET.ILLink.Tasks.props": {}
         }
       },
-      "Microsoft.NET.Sdk.WebAssembly.Pack/8.0.5": {
+      "Microsoft.NET.Sdk.WebAssembly.Pack/8.0.4": {
         "type": "package",
         "build": {
           "build/Microsoft.NET.Sdk.WebAssembly.Pack.props": {},
@@ -2147,10 +2147,10 @@
         "microsoft.jsinterop.webassembly.nuspec"
       ]
     },
-    "Microsoft.NET.ILLink.Tasks/8.0.5": {
-      "sha512": "4ISW1Ndgz86FkIbu5rVlMqhhtojdy5rUlxC/N+9kPh9qbYcvHiCvYbHKzAPVIx9OPYIjT9trXt7JI42Y5Ukq6A==",
+    "Microsoft.NET.ILLink.Tasks/8.0.4": {
+      "sha512": "PZb5nfQ+U19nhnmnR9T1jw+LTmozhuG2eeuzuW5A7DqxD/UXW2ucjmNJqnqOuh8rdPzM3MQXoF8AfFCedJdCUw==",
       "type": "package",
-      "path": "microsoft.net.illink.tasks/8.0.5",
+      "path": "microsoft.net.illink.tasks/8.0.4",
       "hasTools": true,
       "files": [
         ".nupkg.metadata",
@@ -2164,7 +2164,7 @@
         "build/Microsoft.NET.ILLink.Analyzers.props",
         "build/Microsoft.NET.ILLink.Tasks.props",
         "build/Microsoft.NET.ILLink.targets",
-        "microsoft.net.illink.tasks.8.0.5.nupkg.sha512",
+        "microsoft.net.illink.tasks.8.0.4.nupkg.sha512",
         "microsoft.net.illink.tasks.nuspec",
         "tools/net472/ILLink.Tasks.dll",
         "tools/net472/ILLink.Tasks.dll.config",
@@ -2198,10 +2198,10 @@
         "useSharedDesignerContext.txt"
       ]
     },
-    "Microsoft.NET.Sdk.WebAssembly.Pack/8.0.5": {
-      "sha512": "CABBOqZZEDgiVSjkwUr+pJEGEtQbrT+6dltzJnBDap7mOSvfn53+zwb112hRGB7ynm9ikAocGZTUp+GizbH7XQ==",
+    "Microsoft.NET.Sdk.WebAssembly.Pack/8.0.4": {
+      "sha512": "D4kK4zXW43HvIX0lG9rBGGVzNtY6WwbCGAHJEi6iChU5Dgw8VenJS7Jc1g9Yy8pq4mEQA5PCcZicA16hGTjRpw==",
       "type": "package",
-      "path": "microsoft.net.sdk.webassembly.pack/8.0.5",
+      "path": "microsoft.net.sdk.webassembly.pack/8.0.4",
       "hasTools": true,
       "files": [
         ".nupkg.metadata",
@@ -2229,7 +2229,7 @@
         "build/Microsoft.NET.Sdk.WebAssembly.Pack.props",
         "build/Microsoft.NET.Sdk.WebAssembly.Pack.targets",
         "build/Wasm.web.config",
-        "microsoft.net.sdk.webassembly.pack.8.0.5.nupkg.sha512",
+        "microsoft.net.sdk.webassembly.pack.8.0.4.nupkg.sha512",
         "microsoft.net.sdk.webassembly.pack.nuspec",
         "tools/net472/Microsoft.Bcl.AsyncInterfaces.dll",
         "tools/net472/Microsoft.Build.dll",
@@ -2237,7 +2237,6 @@
         "tools/net472/Microsoft.NET.Sdk.WebAssembly.Pack.Tasks.dll",
         "tools/net472/Microsoft.NET.StringTools.dll",
         "tools/net472/Microsoft.NET.WebAssembly.Webcil.dll",
-        "tools/net472/Microsoft.VisualStudio.Setup.Configuration.Interop.dll",
         "tools/net472/System.Buffers.dll",
         "tools/net472/System.Collections.Immutable.dll",
         "tools/net472/System.Configuration.ConfigurationManager.dll",
@@ -2260,7 +2259,6 @@
         "tools/net8.0/Microsoft.NET.WebAssembly.Webcil.dll",
         "tools/net8.0/Microsoft.Win32.SystemEvents.dll",
         "tools/net8.0/System.Configuration.ConfigurationManager.dll",
-        "tools/net8.0/System.Diagnostics.EventLog.dll",
         "tools/net8.0/System.Drawing.Common.dll",
         "tools/net8.0/System.Reflection.MetadataLoadContext.dll",
         "tools/net8.0/System.Security.Cryptography.ProtectedData.dll",
@@ -2482,41 +2480,56 @@
       "Microsoft.AspNetCore.Components.WebAssembly >= 8.0.5",
       "Microsoft.AspNetCore.Components.WebAssembly.Authentication >= 8.0.5",
       "Microsoft.Extensions.Http >= 8.0.0",
-      "Microsoft.NET.ILLink.Tasks >= 8.0.5",
-      "Microsoft.NET.Sdk.WebAssembly.Pack >= 8.0.5",
+      "Microsoft.NET.ILLink.Tasks >= 8.0.4",
+      "Microsoft.NET.Sdk.WebAssembly.Pack >= 8.0.4",
       "System.Net.Http.Json >= 8.0.0"
     ]
   },
   "packageFolders": {
-    "/Users/wonkeuncho/.nuget/packages/": {}
+    "C:\\Users\\V14066\\.nuget\\packages\\": {},
+    "C:\\Program Files\\DevExpress 22.1\\Components\\Offline Packages": {},
+    "C:\\Program Files\\DevExpress 23.1\\Components\\Offline Packages": {},
+    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/wonkeuncho/Desktop/Folder/dev/BlazorStarted/BlazingPizza.Client/BlazingPizza.Client.csproj",
+      "projectUniqueName": "C:\\Users\\V14066\\source\\repos\\Landaq\\BlazorStarted\\BlazingPizza.Client\\BlazingPizza.Client.csproj",
       "projectName": "BlazingPizza.Client",
-      "projectPath": "/Users/wonkeuncho/Desktop/Folder/dev/BlazorStarted/BlazingPizza.Client/BlazingPizza.Client.csproj",
-      "packagesPath": "/Users/wonkeuncho/.nuget/packages/",
-      "outputPath": "/Users/wonkeuncho/Desktop/Folder/dev/BlazorStarted/BlazingPizza.Client/obj/",
+      "projectPath": "C:\\Users\\V14066\\source\\repos\\Landaq\\BlazorStarted\\BlazingPizza.Client\\BlazingPizza.Client.csproj",
+      "packagesPath": "C:\\Users\\V14066\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\V14066\\source\\repos\\Landaq\\BlazorStarted\\BlazingPizza.Client\\obj\\",
       "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Program Files\\DevExpress 22.1\\Components\\Offline Packages",
+        "C:\\Program Files\\DevExpress 23.1\\Components\\Offline Packages",
+        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+      ],
       "configFilePaths": [
-        "/Users/wonkeuncho/.nuget/NuGet/NuGet.Config"
+        "C:\\Users\\V14066\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\DevExpress 22.1.config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\DevExpress 23.1.config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
         "net8.0"
       ],
       "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "C:\\Program Files\\DevExpress 22.1\\Components\\System\\Components\\Packages": {},
+        "C:\\Program Files\\DevExpress 23.1\\Components\\System\\Components\\Packages": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
         "net8.0": {
           "targetAlias": "net8.0",
           "projectReferences": {
-            "/Users/wonkeuncho/Desktop/Folder/dev/BlazorStarted/BlazingPizza.ComponentsLibrary/BlazingPizza.ComponentsLibrary.csproj": {
-              "projectPath": "/Users/wonkeuncho/Desktop/Folder/dev/BlazorStarted/BlazingPizza.ComponentsLibrary/BlazingPizza.ComponentsLibrary.csproj"
+            "C:\\Users\\V14066\\source\\repos\\Landaq\\BlazorStarted\\BlazingPizza.ComponentsLibrary\\BlazingPizza.ComponentsLibrary.csproj": {
+              "projectPath": "C:\\Users\\V14066\\source\\repos\\Landaq\\BlazorStarted\\BlazingPizza.ComponentsLibrary\\BlazingPizza.ComponentsLibrary.csproj"
             },
-            "/Users/wonkeuncho/Desktop/Folder/dev/BlazorStarted/BlazingPizza.Shared/BlazingPizza.Shared.csproj": {
-              "projectPath": "/Users/wonkeuncho/Desktop/Folder/dev/BlazorStarted/BlazingPizza.Shared/BlazingPizza.Shared.csproj"
+            "C:\\Users\\V14066\\source\\repos\\Landaq\\BlazorStarted\\BlazingPizza.Shared\\BlazingPizza.Shared.csproj": {
+              "projectPath": "C:\\Users\\V14066\\source\\repos\\Landaq\\BlazorStarted\\BlazingPizza.Shared\\BlazingPizza.Shared.csproj"
             }
           }
         }
@@ -2551,13 +2564,13 @@
           "Microsoft.NET.ILLink.Tasks": {
             "suppressParent": "All",
             "target": "Package",
-            "version": "[8.0.5, )",
+            "version": "[8.0.4, )",
             "autoReferenced": true
           },
           "Microsoft.NET.Sdk.WebAssembly.Pack": {
             "suppressParent": "All",
             "target": "Package",
-            "version": "[8.0.5, )",
+            "version": "[8.0.4, )",
             "autoReferenced": true
           },
           "System.Net.Http.Json": {
@@ -2579,7 +2592,7 @@
         "downloadDependencies": [
           {
             "name": "Microsoft.NETCore.App.Runtime.Mono.browser-wasm",
-            "version": "[8.0.5, 8.0.5]"
+            "version": "[8.0.4, 8.0.4]"
           }
         ],
         "frameworkReferences": {
@@ -2587,7 +2600,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/8.0.300/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.204/PortableRuntimeIdentifierGraph.json"
       }
     },
     "runtimes": {
