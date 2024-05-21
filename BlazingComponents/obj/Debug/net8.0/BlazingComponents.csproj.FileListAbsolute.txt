@@ -15,9 +15,7 @@ C:\Users\V14066\Source\Repos\Landaq\BlazorStarted\BlazingComponents\obj\Debug\ne
 C:\Users\V14066\Source\Repos\Landaq\BlazorStarted\BlazingComponents\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.BlazingComponents.props
 C:\Users\V14066\Source\Repos\Landaq\BlazorStarted\BlazingComponents\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.BlazingComponents.props
 C:\Users\V14066\Source\Repos\Landaq\BlazorStarted\BlazingComponents\obj\Debug\net8.0\staticwebassets.pack.json
-C:\Users\V14066\Source\Repos\Landaq\BlazorStarted\BlazingComponents\obj\Debug\net8.0\scopedcss\Component1.razor.rz.scp.css
 C:\Users\V14066\Source\Repos\Landaq\BlazorStarted\BlazingComponents\obj\Debug\net8.0\scopedcss\bundle\BlazingComponents.styles.css
-C:\Users\V14066\Source\Repos\Landaq\BlazorStarted\BlazingComponents\obj\Debug\net8.0\scopedcss\projectbundle\BlazingComponents.bundle.scp.css
 C:\Users\V14066\Source\Repos\Landaq\BlazorStarted\BlazingComponents\obj\Debug\net8.0\BlazingComponents.dll
 C:\Users\V14066\Source\Repos\Landaq\BlazorStarted\BlazingComponents\obj\Debug\net8.0\refint\BlazingComponents.dll
 C:\Users\V14066\Source\Repos\Landaq\BlazorStarted\BlazingComponents\obj\Debug\net8.0\BlazingComponents.pdb

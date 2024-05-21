@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "h4v40dm4V/hjgy8MRo9v0RCTwqYPeHggBjCblueVW9Y=",
+  "Hash": "VBWyvN1wqlH+qQlVrV10S6g9gn9Mjh3DkIAiDkr0wnw=",
   "Source": "BlazingPizza.Server",
   "BasePath": "_content/BlazingPizza.Server",
   "Mode": "Default",
@@ -1222,25 +1222,6 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "C:\\Users\\V14066\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.5\\staticwebassets\\V5\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
-    },
-    {
-      "Identity": "C:\\Users\\V14066\\Source\\Repos\\Landaq\\BlazorStarted\\BlazingComponents\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\BlazingComponents.bundle.scp.css",
-      "SourceId": "BlazingComponents",
-      "SourceType": "Project",
-      "ContentRoot": "C:\\Users\\V14066\\Source\\Repos\\Landaq\\BlazorStarted\\BlazingComponents\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\",
-      "BasePath": "_content/BlazingComponents",
-      "RelativePath": "BlazingComponents.bundle.scp.css",
-      "AssetKind": "All",
-      "AssetMode": "Reference",
-      "AssetRole": "Primary",
-      "AssetMergeBehavior": "",
-      "AssetMergeSource": "",
-      "RelatedAsset": "",
-      "AssetTraitName": "ScopedCss",
-      "AssetTraitValue": "ProjectBundle",
-      "CopyToOutputDirectory": "Never",
-      "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\V14066\\Source\\Repos\\Landaq\\BlazorStarted\\BlazingComponents\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\BlazingComponents.bundle.scp.css"
     },
     {
       "Identity": "C:\\Users\\V14066\\Source\\Repos\\Landaq\\BlazorStarted\\BlazingComponents\\wwwroot\\background.png",
@@ -9489,25 +9470,6 @@
       "OriginalItemSpec": "C:\\Users\\V14066\\Source\\Repos\\Landaq\\BlazorStarted\\BlazingPizza.Client\\bin\\Debug\\net8.0\\wwwroot\\_framework\\System.Threading.Tasks.Dataflow.wasm"
     },
     {
-      "Identity": "C:\\Users\\V14066\\Source\\Repos\\Landaq\\BlazorStarted\\BlazingPizza.Client\\obj\\Debug\\net8.0\\scopedcss\\bundle\\BlazingPizza.Client.styles.css",
-      "SourceId": "BlazingPizza.Client",
-      "SourceType": "Project",
-      "ContentRoot": "C:\\Users\\V14066\\Source\\Repos\\Landaq\\BlazorStarted\\BlazingPizza.Client\\obj\\Debug\\net8.0\\scopedcss\\bundle\\",
-      "BasePath": "/",
-      "RelativePath": "BlazingPizza.Client.styles.css",
-      "AssetKind": "All",
-      "AssetMode": "CurrentProject",
-      "AssetRole": "Primary",
-      "AssetMergeBehavior": "",
-      "AssetMergeSource": "",
-      "RelatedAsset": "",
-      "AssetTraitName": "ScopedCss",
-      "AssetTraitValue": "ApplicationBundle",
-      "CopyToOutputDirectory": "Never",
-      "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\V14066\\Source\\Repos\\Landaq\\BlazorStarted\\BlazingPizza.Client\\obj\\Debug\\net8.0\\scopedcss\\bundle\\BlazingPizza.Client.styles.css"
-    },
-    {
       "Identity": "C:\\Users\\V14066\\Source\\Repos\\Landaq\\BlazorStarted\\BlazingPizza.Client\\wwwroot\\css\\bootstrap\\bootstrap.min.css",
       "SourceId": "BlazingPizza.Client",
       "SourceType": "Project",
@@ -10002,6 +9964,44 @@
       "OriginalItemSpec": "wwwroot\\index.html"
     },
     {
+      "Identity": "C:\\Users\\V14066\\Source\\Repos\\Landaq\\BlazorStarted\\BlazingPizza.Client\\wwwroot\\manifest.json",
+      "SourceId": "BlazingPizza.Client",
+      "SourceType": "Project",
+      "ContentRoot": "C:\\Users\\V14066\\Source\\Repos\\Landaq\\BlazorStarted\\BlazingPizza.Client\\wwwroot\\",
+      "BasePath": "/",
+      "RelativePath": "manifest.json",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\manifest.json"
+    },
+    {
+      "Identity": "C:\\Users\\V14066\\Source\\Repos\\Landaq\\BlazorStarted\\BlazingPizza.Client\\wwwroot\\service-worker.js",
+      "SourceId": "BlazingPizza.Client",
+      "SourceType": "Project",
+      "ContentRoot": "C:\\Users\\V14066\\Source\\Repos\\Landaq\\BlazorStarted\\BlazingPizza.Client\\wwwroot\\",
+      "BasePath": "/",
+      "RelativePath": "service-worker.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\service-worker.js"
+    },
+    {
       "Identity": "C:\\Users\\V14066\\Source\\Repos\\Landaq\\BlazorStarted\\BlazingPizza.ComponentsLibrary\\wwwroot\\deliveryMap.js",
       "SourceId": "BlazingPizza.ComponentsLibrary",
       "SourceType": "Project",
@@ -10190,25 +10190,6 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\pushNotifications.js"
-    },
-    {
-      "Identity": "C:\\Users\\V14066\\Source\\Repos\\Landaq\\BlazorStarted\\BlazingPizza.Server\\obj\\Debug\\net8.0\\scopedcss\\bundle\\BlazingPizza.Server.styles.css",
-      "SourceId": "BlazingPizza.Server",
-      "SourceType": "Computed",
-      "ContentRoot": "C:\\Users\\V14066\\Source\\Repos\\Landaq\\BlazorStarted\\BlazingPizza.Server\\obj\\Debug\\net8.0\\scopedcss\\bundle\\",
-      "BasePath": "_content/BlazingPizza.Server",
-      "RelativePath": "BlazingPizza.Server.styles.css",
-      "AssetKind": "All",
-      "AssetMode": "CurrentProject",
-      "AssetRole": "Primary",
-      "AssetMergeBehavior": "",
-      "AssetMergeSource": "",
-      "RelatedAsset": "",
-      "AssetTraitName": "ScopedCss",
-      "AssetTraitValue": "ApplicationBundle",
-      "CopyToOutputDirectory": "Never",
-      "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\V14066\\Source\\Repos\\Landaq\\BlazorStarted\\BlazingPizza.Server\\obj\\Debug\\net8.0\\scopedcss\\bundle\\BlazingPizza.Server.styles.css"
     }
   ]
 }

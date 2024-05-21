@@ -4,6 +4,6 @@
     "\\BlazingPizza.Client",
     "\\BlazingPizza.Client\\Pages"
   ],
-  "SelectedNode": "\\BlazingPizza.sln",
+  "SelectedNode": "\\BlazingPizza.Client\\Pages\\Checkout.razor",
   "PreviewInSolutionExplorer": false
 }
